@@ -1,0 +1,11 @@
+NOTE :
+
+I have tested  my code on Windows 10 using Python 2.7.13. I have NOT tested the code against Python 3 and it is quite possible the code fails with Python 3.
+
+RUNNING THE CODE:
+
+1) Create a directory say c:\test and cd to this directory
+1) Clone my code from Github :  git clone https://github.com/raghavanks/ud036_StarterCode.git
+2) At the command line, type:  python entertainment_center.py
+
+This should open a browser instance depending on your configuration.
